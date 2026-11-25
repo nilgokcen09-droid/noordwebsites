@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nilgokcen09-droid.github.io/noordwebsites/sitemap.xml
